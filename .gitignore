@@ -12,6 +12,9 @@
 # Espelho de repositorios clonados (read-only, nao versionar no vault)
 raw/github/
 
+# Espelho das skills do Codex (read-only, nao versionar no vault)
+raw/skills/
+
 # Lixo de sistema/edição
 .DS_Store
 Thumbs.db

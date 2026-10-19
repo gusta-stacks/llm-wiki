@@ -17,3 +17,10 @@ Registro cronológico **append-only**. Formato de entrada:
 - páginas: criadas 12 (`wiki/entities/Entidade - <repo>.md`), atualizadas 2 (`index.md`, `log.md`)
 - notas: repos privados ficaram de fora (gh sem autenticação); páginas são esqueletos aguardando ingest real de conteúdo
 - git: `raw/github/` entrou no `.gitignore` (espelho read-only fora do versionamento do vault)
+
+## [2026-10-19] ingest | Espelho das skills do Codex
+
+- fonte: `raw/skills/` — 33 pastas de skill copiadas de `~/.codex/skills/` (1.394 arquivos, 35,9 MB, inclui `.system/`)
+- páginas: criadas 37 (`wiki/entities/Skill - <nome>.md`), atualizadas 2 (`index.md`, `log.md`)
+- notas: cada página aponta para o `SKILL.md` espelhado; links aos `.md` de apoio entram no graph
+- git: `raw/skills/` entrou no `.gitignore` (espelho read-only, igual a `raw/github/`)

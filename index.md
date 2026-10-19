@@ -5,9 +5,10 @@ ao responder uma query (ver `AGENTS.md` §8) e depois abrir as páginas relevant
 Atualizado em cada `ingest` e a cada análise arquivada.
 
 > Estado: **0 fontes ingeridas** em `raw/articles|papers|notes`; **12 projetos**
-> espelhados de `raw/github/` (clones read-only) com página em `wiki/entities/`.
+> espelhados de `raw/github/` e **37 skills** espelhadas de `raw/skills/`
+> (cópias read-only) com página em `wiki/entities/`.
 
-Última ingest: 2026-10-19 (espelho dos repos do GitHub) · Última query: — · Último lint: —
+Última ingest: 2026-10-19 (repos do GitHub + skills do Codex) · Última query: — · Último lint: —
 
 ## Fontes
 
@@ -29,6 +30,48 @@ Projetos (espelho de `raw/github/`, clone read-only):
 - [[Entidade - potential-invention]] — Python; espelho em `raw/github/potential-invention/`. (2026-10-19, 1 fonte)
 - [[Entidade - vbug]] — projeto `vbug`; espelho em `raw/github/vbug/`. (2026-10-19, 1 fonte)
 - [[Entidade - volleyspot]] — projeto `volleyspot`; espelho em `raw/github/volleyspot/`. (2026-10-19, 1 fonte)
+
+## Skills
+
+Skills do Codex espelhadas em `raw/skills/` (cópia read-only de `~/.codex/skills/`):
+
+- [[Skill - imagegen (system)]] — Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, t... (2026-10-19, 1 fonte)
+- [[Skill - openai-docs (system)]] — Use for Codex models/pricing, scheduled tasks, skills, settings, setup, troubleshooting, customization, automations,... (2026-10-19, 1 fonte)
+- [[Skill - review-agent (system)]] — Perform a read-only, defect-first review of a specified code change and return every actionable finding. Use when ano... (2026-10-19, 1 fonte)
+- [[Skill - skill-creator (system)]] — Create or update a Codex skill with appropriately scoped instructions and any needed supporting resources. (2026-10-19, 1 fonte)
+- [[Skill - skill-installer (system)]] — Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list... (2026-10-19, 1 fonte)
+- [[Skill - apilayer]] — Use when o usuário mencionar APILayer ou precisar escolher APIs externas de finanças, localização, notícias e dados g... (2026-10-19, 1 fonte)
+- [[Skill - bencium-innovative-ux-designer]] — Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks... (2026-10-19, 1 fonte)
+- [[Skill - brag]] — Turn the current project website into a short, polished, shareable launch video using Hyperframes. Use when someone s... (2026-10-19, 1 fonte)
+- [[Skill - caveman]] — Ultra-compressed communication mode. Cuts output tokens 65% (measured) by speaking like caveman while keeping full... (2026-10-19, 1 fonte)
+- [[Skill - design-motion-principles]] — Motion and interaction design expert based on Emil Kowalski, Jakub Krehel, and Jhey Tompkins' techniques. Two modes —... (2026-10-19, 1 fonte)
+- [[Skill - discord-bot]] — Discord bot development - community management, moderation, notifications, and AI integration (2026-10-19, 1 fonte)
+- [[Skill - embedded-captions]] — Add captions or subtitles to an existing single-subject talking-head video without editing the footage. Use for pla... (2026-10-19, 1 fonte)
+- [[Skill - faceless-explainer]] — Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there is no site or foot... (2026-10-19, 1 fonte)
+- [[Skill - figma]] — Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, storyboard sections... (2026-10-19, 1 fonte)
+- [[Skill - find-skills]] — Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X", "is... (2026-10-19, 1 fonte)
+- [[Skill - general-video]] — Author or edit a custom HyperFrames composition when no specialized workflow fits, or when BRIEF.md sets flow: comp... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes]] — Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes-animation]] — All animation knowledge for HyperFrames — atomic motion rules, multi-phase scene blueprints, scene transitions, broad... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes-audio]] — Use when audio already placed in a HyperFrames composition needs to be mixed: fade-in/fade-out, crossfade, track ga... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes-cli]] — Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compare, grade-compar... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes-core]] — The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timi... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes-creative]] — Non-animation creative direction for HyperFrames videos. Use for design spec (frame.md / design.md) handling, palette... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes-keyframes]] — Use when a HyperFrames composition needs a punch-in, punch-out, zoom, reframe, Ken Burns treatment, camera move, vi... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes-registry]] — Search, install, and wire registry blocks and components into HyperFrames compositions. Use BEFORE hand-building any... (2026-10-19, 1 fonte)
+- [[Skill - hyperframes-studio]] — Use when building or editing a HyperFrames project that people open in (2026-10-19, 1 fonte)
+- [[Skill - impeccable]] — Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adap... (2026-10-19, 1 fonte)
+- [[Skill - media-use]] — Agent Media OS, the single skill for every media need in a HyperFrames project. Resolve BGM, SFX, image, icon, brand... (2026-10-19, 1 fonte)
+- [[Skill - mobile-touch]] — Use when designing iOS/Android gestures, haptic feedback, touch interactions, or native mobile animations. (2026-10-19, 1 fonte)
+- [[Skill - motion-graphics]] — A short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, chart/data-viz... (2026-10-19, 1 fonte)
+- [[Skill - music-to-video]] — Turn a music track (an audio file, a video to pull audio from, or a track generated from a mood brief) into a beat-sy... (2026-10-19, 1 fonte)
+- [[Skill - product-launch-video]] — Turn a product or marketing URL, pasted script, or brief into a product launch / promo video — SaaS promos, feature r... (2026-10-19, 1 fonte)
+- [[Skill - pr-to-video]] — Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-out repo) into a code-change explainer... (2026-10-19, 1 fonte)
+- [[Skill - remotion-to-hyperframes]] — Port an existing Remotion (React) composition's source to HyperFrames HTML. Use ONLY on an explicit ask to port/conv... (2026-10-19, 1 fonte)
+- [[Skill - slideshow]] — Author a HyperFrames slideshow — a presentation, pitch deck, or interactive deck with discrete slides, fragment rev... (2026-10-19, 1 fonte)
+- [[Skill - talking-head-recut]] — Package an existing talking-head / interview / podcast video with timed, designed GRAPHIC OVERLAY cards — kinetic tit... (2026-10-19, 1 fonte)
+- [[Skill - ui-ux-pro-max]] — UI/UX design intelligence for web and mobile. Searchable local database with 84 styles, 192 color palettes, 74 font p... (2026-10-19, 1 fonte)
+- [[Skill - web-pentest]] — Perform black-box / grey-box web application penetration testing on an authorized target — auth bypass, IDOR, session... (2026-10-19, 1 fonte)
 
 ## Conceitos
 

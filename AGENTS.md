@@ -44,7 +44,9 @@ llm-wiki/
 ├── overview.md             # síntese corrente de alto nível
 ├── raw/                    # FONTES IMUTÁVEIS
 │   ├── articles/  papers/  notes/
-│   └── assets/             # imagens e anexos (pasta de anexos do Obsidian)
+│   ├── assets/             # imagens e anexos (pasta de anexos do Obsidian)
+│   ├── github/             # espelho read-only dos repos (clones depth 1)
+│   └── skills/             # espelho read-only das skills do Codex
 ├── wiki/                   # camada escrita pelo LLM
 │   ├── sources/   # 1 página de resumo por fonte
 │   ├── entities/  # pessoas, organizações, lugares, projetos, produtos

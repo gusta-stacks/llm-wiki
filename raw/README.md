@@ -11,5 +11,7 @@ Organização:
 - `assets/` — imagens e anexos (pasta de anexos padrão do Obsidian)
 - `github/` — clones read-only dos repositórios do GitHub (espelho para navegar no
   Obsidian; não versionado no repo do vault, ver `.gitignore`)
+- `skills/` — cópia read-only das skills do Codex (`~/.codex/skills/`) para consulta
+  no vault; não versionado no repo do vault (ver `.gitignore`)
 
 O LLM lê daqui e **escreve apenas em `wiki/`** — ver o contrato em `AGENTS.md` §2.
