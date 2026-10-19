@@ -24,3 +24,10 @@ Registro cronológico **append-only**. Formato de entrada:
 - páginas: criadas 37 (`wiki/entities/Skill - <nome>.md`), atualizadas 2 (`index.md`, `log.md`)
 - notas: cada página aponta para o `SKILL.md` espelhado; links aos `.md` de apoio entram no graph
 - git: `raw/skills/` entrou no `.gitignore` (espelho read-only, igual a `raw/github/`)
+
+## [2026-10-19] ingest | Prompt Multi-Agent Systems Architect
+
+- fonte: `raw/notes/agente-arquiteto-multi-agentes.md` (texto integral, imutável) → [[Fonte - Multi-Agent Systems Architect Agent]]
+- páginas: criadas 17 (1 fonte + 1 entidade hub [[Entidade - Multi-Agent Systems Architect]] + 15 conceitos em `wiki/concepts/`), atualizadas 2 (`index.md`, `log.md`)
+- notas: atomização em grafo — topologias (5), contexto, falhas/resiliência, segurança, HITL, especialização, observabilidade/RCA, evals, custo/latência
+- git: commit `ingest: prompt Multi-Agent Systems Architect em grafo`

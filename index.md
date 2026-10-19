@@ -4,17 +4,21 @@ Catálogo orientado a conteúdo do vault. **Todo LLM deve ler este arquivo prime
 ao responder uma query (ver `AGENTS.md` §8) e depois abrir as páginas relevantes.
 Atualizado em cada `ingest` e a cada análise arquivada.
 
-> Estado: **0 fontes ingeridas** em `raw/articles|papers|notes`; **12 projetos**
-> espelhados de `raw/github/` e **37 skills** espelhadas de `raw/skills/`
-> (cópias read-only) com página em `wiki/entities/`.
+> Estado: **1 fonte ingerida** (`raw/notes/`); **12 projetos** de `raw/github/` e
+> **37 skills** de `raw/skills/` (cópias read-only); **1 hub + 15 conceitos** de
+> arquitetura multi-agente.
 
-Última ingest: 2026-10-19 (repos do GitHub + skills do Codex) · Última query: — · Último lint: —
+Última ingest: 2026-10-19 (repos do GitHub + skills do Codex + prompt Multi-Agent Systems Architect) · Última query: — · Último lint: —
 
 ## Fontes
 
-_(nenhuma ainda — solte arquivos em `raw/articles|papers|notes` e peça um `ingest`)_
+- [[Fonte - Multi-Agent Systems Architect Agent]] — prompt completo de um agente que arquiteta pipelines multi-agente como sistemas distribuídos (topologias, contexto, falhas, segurança, HITL, observabilidade, evals). (2026-10-19, 1 fonte)
 
 ## Entidades
+
+Hub de agentes:
+
+- [[Entidade - Multi-Agent Systems Architect]] — persona/agente de arquitetura de sistemas multi-agente; hub para os conceitos de produção. (2026-10-19, 1 fonte)
 
 Projetos (espelho de `raw/github/`, clone read-only):
 
@@ -75,7 +79,23 @@ Skills do Codex espelhadas em `raw/skills/` (cópia read-only de `~/.codex/skill
 
 ## Conceitos
 
-_(nenhuma ainda)_
+Arquitetura multi-agente (fonte: [[Fonte - Multi-Agent Systems Architect Agent]]):
+
+- [[Conceito - Topologia Sequencial]] — cadeia linear; simples de depurar, contexto compõe entre hops. (2026-10-19, 1 fonte)
+- [[Conceito - Topologia Fan-Out e Fan-In]] — paralelismo com sintetizador; lidar com resultados parciais. (2026-10-19, 1 fonte)
+- [[Conceito - Topologia Hierárquica]] — orquestrador que decompõe, delega e sintetiza; padrão recomendado. (2026-10-19, 1 fonte)
+- [[Conceito - Topologia Evaluator-Optimizer]] — laço de refinamento com saída dura e detecção de platô. (2026-10-19, 1 fonte)
+- [[Conceito - Topologia Mesh]] — peer-to-peer; maior complexidade, exige moderador e término. (2026-10-19, 1 fonte)
+- [[Conceito - Arquitetura de Contexto em Pipelines de Agentes]] — sumarização, estado estruturado, memória externa, checkpointing. (2026-10-19, 1 fonte)
+- [[Conceito - Engenharia de Modos de Falha]] — taxonomia de falhas com detecção e recuperação. (2026-10-19, 1 fonte)
+- [[Conceito - Circuit Breaker e Cadeia de Fallback]] — CLOSED/OPEN/HALF-OPEN + fallback em 4 níveis. (2026-10-19, 1 fonte)
+- [[Conceito - Least Privilege e Escopo de Permissões de Agentes]] — matriz de acesso, tokens de escopo, sandbox, auditoria. (2026-10-19, 1 fonte)
+- [[Conceito - Defesa contra Prompt Injection]] — conteúdo nunca é instrução; sanitizador e schema. (2026-10-19, 1 fonte)
+- [[Conceito - Human-in-the-Loop Gates]] — calibração de escalonamento; gates bloqueante, consultivo, amostragem. (2026-10-19, 1 fonte)
+- [[Conceito - Especialização e Contratos de Agentes]] — quando dividir agentes; template de definição de papel. (2026-10-19, 1 fonte)
+- [[Conceito - Observabilidade Multi-Hop e RCA]] — trace_id, log por chamada, protocolo de causa raiz. (2026-10-19, 1 fonte)
+- [[Conceito - Evals de Agentes e Pipelines]] — dois níveis de eval + gate de deploy (≥20 casos, baseline). (2026-10-19, 1 fonte)
+- [[Conceito - Governança de Custo e Latência]] — modelo de custo, teto rígido, enforcement de tokens. (2026-10-19, 1 fonte)
 
 ## Análises
 
