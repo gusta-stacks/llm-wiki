@@ -10,3 +10,10 @@ Registro cronológico **append-only**. Formato de entrada:
 - schema: `AGENTS.md` (contrato completo) + `CLAUDE.md` (atalho) · `index.md` · `overview.md` · `log.md`
 - Obsidian: anexos → `raw/assets/` · templates → `_templates/` · Dataview recomendado via frontmatter
 - git: branch `main`, `.gitignore` de ruído Obsidian · nenhum conhecimento ingerido ainda
+
+## [2026-10-19] ingest | Espelho dos repositórios do GitHub
+
+- fonte: `raw/github/` — 12 clones depth 1 (lista via API pública do GitHub)
+- páginas: criadas 12 (`wiki/entities/Entidade - <repo>.md`), atualizadas 2 (`index.md`, `log.md`)
+- notas: repos privados ficaram de fora (gh sem autenticação); páginas são esqueletos aguardando ingest real de conteúdo
+- git: `raw/github/` entrou no `.gitignore` (espelho read-only fora do versionamento do vault)
