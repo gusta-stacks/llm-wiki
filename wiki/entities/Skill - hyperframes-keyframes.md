@@ -25,3 +25,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/hyperframes-keyframes/` (espelho local: `raw/skills/hyperframes-keyframes/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes-creative]]
+- Próxima: [[Skill - hyperframes-registry]]

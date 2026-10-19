@@ -35,3 +35,7 @@ Search, install, and wire registry blocks and components into HyperFrames compos
 
 ## Fontes
 - `~/.codex/skills/hyperframes-registry/` (espelho local: `raw/skills/hyperframes-registry/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes-keyframes]]
+- Próxima: [[Skill - hyperframes-studio]]

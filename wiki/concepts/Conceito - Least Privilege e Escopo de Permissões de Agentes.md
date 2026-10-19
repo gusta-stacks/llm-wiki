@@ -32,3 +32,7 @@ Cada agente recebe **apenas** as ferramentas e dados que o seu papel exige — n
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Human-in-the-Loop Gates]]
+- Próxima: [[Conceito - Observabilidade Multi-Hop e RCA]]

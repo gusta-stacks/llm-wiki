@@ -34,3 +34,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/hyperframes-cli/` (espelho local: `raw/skills/hyperframes-cli/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes-audio]]
+- Próxima: [[Skill - hyperframes-core]]

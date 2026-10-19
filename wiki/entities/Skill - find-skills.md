@@ -25,3 +25,7 @@ Helps users discover and install agent skills when they ask questions like "how 
 
 ## Fontes
 - `~/.codex/skills/find-skills/` (espelho local: `raw/skills/find-skills/`)
+
+## Corrente
+- Anterior: [[Skill - figma]]
+- Próxima: [[Skill - general-video]]

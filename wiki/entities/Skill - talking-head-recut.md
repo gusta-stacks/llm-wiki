@@ -26,3 +26,7 @@ Package an existing talking-head / interview / podcast video with timed, designe
 
 ## Fontes
 - `~/.codex/skills/talking-head-recut/` (espelho local: `raw/skills/talking-head-recut/`)
+
+## Corrente
+- Anterior: [[Skill - slideshow]]
+- Próxima: [[Skill - ui-ux-pro-max]]

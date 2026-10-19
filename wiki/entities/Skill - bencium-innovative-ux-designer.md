@@ -28,3 +28,7 @@ Create distinctive, production-grade frontend interfaces with high design qualit
 
 ## Fontes
 - `~/.codex/skills/bencium-innovative-ux-designer/` (espelho local: `raw/skills/bencium-innovative-ux-designer/`)
+
+## Corrente
+- Anterior: [[Skill - apilayer]]
+- Próxima: [[Skill - brag]]

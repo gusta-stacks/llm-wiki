@@ -39,3 +39,7 @@ Port an existing Remotion (React) composition''s source to HyperFrames HTML. Use
 
 ## Fontes
 - `~/.codex/skills/remotion-to-hyperframes/` (espelho local: `raw/skills/remotion-to-hyperframes/`)
+
+## Corrente
+- Anterior: [[Skill - pr-to-video]]
+- Próxima: [[Skill - review-agent (system)]]

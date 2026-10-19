@@ -28,3 +28,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/hyperframes-audio/` (espelho local: `raw/skills/hyperframes-audio/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes-animation]]
+- Próxima: [[Skill - hyperframes-cli]]

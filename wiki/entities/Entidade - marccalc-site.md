@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/marccalc-site). Aplicativo de planilha para Marc
 
 ## Fontes
 - `raw/github/marccalc-site/`
+
+## Corrente
+- Anterior: [[Entidade - MarcCalc-LandingPage]]
+- Próxima: [[Entidade - platina]]

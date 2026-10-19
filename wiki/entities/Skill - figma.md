@@ -25,3 +25,7 @@ Import Figma content into a HyperFrames composition — rendered assets, brand t
 
 ## Fontes
 - `~/.codex/skills/figma/` (espelho local: `raw/skills/figma/`)
+
+## Corrente
+- Anterior: [[Skill - faceless-explainer]]
+- Próxima: [[Skill - find-skills]]

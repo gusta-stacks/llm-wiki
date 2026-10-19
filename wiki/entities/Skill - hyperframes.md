@@ -45,3 +45,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/hyperframes/` (espelho local: `raw/skills/hyperframes/`)
+
+## Corrente
+- Anterior: [[Skill - general-video]]
+- Próxima: [[Skill - hyperframes-animation]]

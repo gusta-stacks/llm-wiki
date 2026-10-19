@@ -25,3 +25,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/caveman/` (espelho local: `raw/skills/caveman/`)
+
+## Corrente
+- Anterior: [[Skill - brag]]
+- Próxima: [[Skill - design-motion-principles]]

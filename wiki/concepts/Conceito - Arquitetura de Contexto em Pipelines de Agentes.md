@@ -33,3 +33,7 @@ O contexto **compõe** ao longo de uma pipeline: numa cadeia de 5 agentes, o úl
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Entidade - Multi-Agent Systems Architect]]
+- Próxima: [[Conceito - Circuit Breaker e Cadeia de Fallback]]

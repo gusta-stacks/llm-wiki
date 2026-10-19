@@ -40,3 +40,7 @@ Por execução de pipeline: latência/custo/tokens totais, agentes que rodaram/p
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Least Privilege e Escopo de Permissões de Agentes]]
+- Próxima: [[Conceito - Topologia Evaluator-Optimizer]]

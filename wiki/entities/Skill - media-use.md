@@ -45,3 +45,7 @@ Agent Media OS, the single skill for every media need in a HyperFrames project. 
 
 ## Fontes
 - `~/.codex/skills/media-use/` (espelho local: `raw/skills/media-use/`)
+
+## Corrente
+- Anterior: [[Skill - impeccable]]
+- Próxima: [[Skill - mobile-touch]]

@@ -40,3 +40,7 @@ TOOLS PERMITTED | CONTEXT WINDOW BUDGET
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Engenharia de Modos de Falha]]
+- Próxima: [[Conceito - Evals de Agentes e Pipelines]]

@@ -35,3 +35,7 @@ Mostrar: decisão + raciocínio (trace, não só conclusão) · alternativas con
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Governança de Custo e Latência]]
+- Próxima: [[Conceito - Least Privilege e Escopo de Permissões de Agentes]]

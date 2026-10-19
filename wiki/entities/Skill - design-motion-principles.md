@@ -36,3 +36,7 @@ Motion and interaction design expert based on Emil Kowalski, Jakub Krehel, and J
 
 ## Fontes
 - `~/.codex/skills/design-motion-principles/` (espelho local: `raw/skills/design-motion-principles/`)
+
+## Corrente
+- Anterior: [[Skill - caveman]]
+- Próxima: [[Skill - discord-bot]]

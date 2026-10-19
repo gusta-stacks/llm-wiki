@@ -25,3 +25,7 @@ Use when o usuário mencionar APILayer ou precisar escolher APIs externas de fin
 
 ## Fontes
 - `~/.codex/skills/apilayer/` (espelho local: `raw/skills/apilayer/`)
+
+## Corrente
+- Anterior: [[Entidade - volleyspot]]
+- Próxima: [[Skill - bencium-innovative-ux-designer]]

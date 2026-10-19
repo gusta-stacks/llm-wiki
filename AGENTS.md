@@ -143,6 +143,10 @@ tags: []
   (quando fizer sentido) · `## Lacunas` (o que ainda falta investigar) · `## Fontes`.
 - **`page-analysis`**
   `## Pergunta` · `## Resposta` (com citações) · `## Próximos passos` · `## Fontes`.
+- **Toda página de conteúdo termina com `## Corrente`** — navegação encadeada com
+  `- Anterior: [[...]]` e `- Próxima: [[...]]`, mantida pelo script
+  `tools/build-chain.ps1`. Isso mantém o graph inteiro num único componente
+  conectado; ao criar/renomear/remover páginas, reexecutar o script antes do commit.
 
 ## 7. Operações
 

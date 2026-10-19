@@ -23,3 +23,7 @@ Agentes que processam conteúdo externo (páginas web, documentos do usuário, e
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Circuit Breaker e Cadeia de Fallback]]
+- Próxima: [[Conceito - Engenharia de Modos de Falha]]

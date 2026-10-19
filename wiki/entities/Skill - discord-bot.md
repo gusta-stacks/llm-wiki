@@ -25,3 +25,7 @@ Discord bot development - community management, moderation, notifications, and A
 
 ## Fontes
 - `~/.codex/skills/discord-bot/` (espelho local: `raw/skills/discord-bot/`)
+
+## Corrente
+- Anterior: [[Skill - design-motion-principles]]
+- Próxima: [[Skill - embedded-captions]]

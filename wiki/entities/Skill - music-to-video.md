@@ -32,3 +32,7 @@ Turn a music track (an audio file, a video to pull audio from, or a track genera
 
 ## Fontes
 - `~/.codex/skills/music-to-video/` (espelho local: `raw/skills/music-to-video/`)
+
+## Corrente
+- Anterior: [[Skill - motion-graphics]]
+- Próxima: [[Skill - openai-docs (system)]]

@@ -45,3 +45,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/embedded-captions/` (espelho local: `raw/skills/embedded-captions/`)
+
+## Corrente
+- Anterior: [[Skill - discord-bot]]
+- Próxima: [[Skill - faceless-explainer]]

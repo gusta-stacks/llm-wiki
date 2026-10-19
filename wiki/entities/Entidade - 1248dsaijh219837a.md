@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/1248dsaijh219837a). :
 
 ## Fontes
 - `raw/github/1248dsaijh219837a/`
+
+## Corrente
+- Anterior: [[Entidade - 1248dsaijh219837]]
+- Próxima: [[Entidade - 1amconrad.io]]

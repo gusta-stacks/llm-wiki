@@ -29,3 +29,7 @@ Turn arbitrary text — an article, notes, a topic, a brief — into a faceless 
 
 ## Fontes
 - `~/.codex/skills/faceless-explainer/` (espelho local: `raw/skills/faceless-explainer/`)
+
+## Corrente
+- Anterior: [[Skill - embedded-captions]]
+- Próxima: [[Skill - figma]]

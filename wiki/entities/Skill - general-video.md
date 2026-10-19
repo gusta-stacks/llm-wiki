@@ -25,3 +25,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/general-video/` (espelho local: `raw/skills/general-video/`)
+
+## Corrente
+- Anterior: [[Skill - find-skills]]
+- Próxima: [[Skill - hyperframes]]

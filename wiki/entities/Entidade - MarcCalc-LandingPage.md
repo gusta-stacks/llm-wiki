@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/MarcCalc-LandingPage). awe1897002yeipusajhd80gh8
 
 ## Fontes
 - `raw/github/MarcCalc-LandingPage/`
+
+## Corrente
+- Anterior: [[Entidade - jubilant-system]]
+- Próxima: [[Entidade - marccalc-site]]

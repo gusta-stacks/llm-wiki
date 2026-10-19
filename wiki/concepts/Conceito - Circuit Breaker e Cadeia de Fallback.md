@@ -33,3 +33,7 @@ Regra de projeto: **o sistema sempre produz algo** — resposta estruturada degr
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Arquitetura de Contexto em Pipelines de Agentes]]
+- Próxima: [[Conceito - Defesa contra Prompt Injection]]

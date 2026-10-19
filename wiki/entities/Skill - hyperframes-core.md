@@ -34,3 +34,7 @@ The HyperFrames composition contract — build one renderable project. Use for c
 
 ## Fontes
 - `~/.codex/skills/hyperframes-core/` (espelho local: `raw/skills/hyperframes-core/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes-cli]]
+- Próxima: [[Skill - hyperframes-creative]]

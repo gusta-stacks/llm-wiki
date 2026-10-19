@@ -34,3 +34,7 @@ Laço de refinamento: `Generator → Evaluator → [pass] → Output`, com retor
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Observabilidade Multi-Hop e RCA]]
+- Próxima: [[Conceito - Topologia Fan-Out e Fan-In]]

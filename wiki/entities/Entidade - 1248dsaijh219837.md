@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/1248dsaijh219837). awe1897002yeipusajhd80gh89-12
 
 ## Fontes
 - `raw/github/1248dsaijh219837/`
+
+## Corrente
+- Anterior: [[Fonte - Multi-Agent Systems Architect Agent]]
+- Próxima: [[Entidade - 1248dsaijh219837a]]

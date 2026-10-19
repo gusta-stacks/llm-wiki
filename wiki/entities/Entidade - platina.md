@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/platina). platina
 
 ## Fontes
 - `raw/github/platina/`
+
+## Corrente
+- Anterior: [[Entidade - marccalc-site]]
+- Próxima: [[Entidade - potential-invention]]

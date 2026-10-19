@@ -38,3 +38,7 @@ Turn the current project website into a short, polished, shareable launch video 
 
 ## Fontes
 - `~/.codex/skills/brag/` (espelho local: `raw/skills/brag/`)
+
+## Corrente
+- Anterior: [[Skill - bencium-innovative-ux-designer]]
+- Próxima: [[Skill - caveman]]

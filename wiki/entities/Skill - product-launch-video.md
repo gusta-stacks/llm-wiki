@@ -29,3 +29,7 @@ Turn a product or marketing URL, pasted script, or brief into a product launch /
 
 ## Fontes
 - `~/.codex/skills/product-launch-video/` (espelho local: `raw/skills/product-launch-video/`)
+
+## Corrente
+- Anterior: [[Skill - openai-docs (system)]]
+- Próxima: [[Skill - pr-to-video]]

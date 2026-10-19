@@ -45,3 +45,7 @@ Non-animation creative direction for HyperFrames videos. Use for design spec (fr
 
 ## Fontes
 - `~/.codex/skills/hyperframes-creative/` (espelho local: `raw/skills/hyperframes-creative/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes-core]]
+- Próxima: [[Skill - hyperframes-keyframes]]

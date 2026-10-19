@@ -34,3 +34,7 @@ Um **orquestrador** decompõe a tarefa, delega a subagentes e sintetiza, com fee
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Topologia Fan-Out e Fan-In]]
+- Próxima: [[Conceito - Topologia Mesh]]

@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/jubilant-system). sem descricao no repositorio
 
 ## Fontes
 - `raw/github/jubilant-system/`
+
+## Corrente
+- Anterior: [[Entidade - cursopromob]]
+- Próxima: [[Entidade - MarcCalc-LandingPage]]

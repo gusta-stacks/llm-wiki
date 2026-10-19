@@ -25,3 +25,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/hyperframes-studio/` (espelho local: `raw/skills/hyperframes-studio/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes-registry]]
+- Próxima: [[Skill - imagegen (system)]]

@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/potential-invention). awe1897002yeipusajhd80gh89
 
 ## Fontes
 - `raw/github/potential-invention/`
+
+## Corrente
+- Anterior: [[Entidade - platina]]
+- Próxima: [[Entidade - vbug]]

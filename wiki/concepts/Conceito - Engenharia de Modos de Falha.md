@@ -34,3 +34,7 @@ Toda pipeline de agentes vai falhar — a diferença é entre falhar **de forma 
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Defesa contra Prompt Injection]]
+- Próxima: [[Conceito - Especialização e Contratos de Agentes]]

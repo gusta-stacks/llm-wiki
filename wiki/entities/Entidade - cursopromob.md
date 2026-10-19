@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/cursopromob). sem descricao no repositorio
 
 ## Fontes
 - `raw/github/cursopromob/`
+
+## Corrente
+- Anterior: [[Entidade - aJ7kP1qR8mS4tB9C2]]
+- Próxima: [[Entidade - jubilant-system]]

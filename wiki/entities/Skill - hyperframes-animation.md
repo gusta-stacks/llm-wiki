@@ -45,3 +45,7 @@ All animation knowledge for HyperFrames — atomic motion rules, multi-phase sce
 
 ## Fontes
 - `~/.codex/skills/hyperframes-animation/` (espelho local: `raw/skills/hyperframes-animation/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes]]
+- Próxima: [[Skill - hyperframes-audio]]

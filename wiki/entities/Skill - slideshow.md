@@ -25,3 +25,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/slideshow/` (espelho local: `raw/skills/slideshow/`)
+
+## Corrente
+- Anterior: [[Skill - skill-installer (system)]]
+- Próxima: [[Skill - talking-head-recut]]

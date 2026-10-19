@@ -36,3 +36,7 @@ Nunca fazer deploy de agente novo/alterado sem:
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Especialização e Contratos de Agentes]]
+- Próxima: [[Conceito - Governança de Custo e Latência]]

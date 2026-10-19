@@ -59,3 +59,6 @@ Design · Resiliência · HITL · Observabilidade · Avaliação · Segurança �
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Próxima: [[Conceito - Arquitetura de Contexto em Pipelines de Agentes]]

@@ -45,3 +45,7 @@ Use when the user wants to design, redesign, shape, critique, audit, polish, cla
 
 ## Fontes
 - `~/.codex/skills/impeccable/` (espelho local: `raw/skills/impeccable/`)
+
+## Corrente
+- Anterior: [[Skill - imagegen (system)]]
+- Próxima: [[Skill - media-use]]

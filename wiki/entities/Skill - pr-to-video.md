@@ -30,3 +30,7 @@ Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-ou
 
 ## Fontes
 - `~/.codex/skills/pr-to-video/` (espelho local: `raw/skills/pr-to-video/`)
+
+## Corrente
+- Anterior: [[Skill - product-launch-video]]
+- Próxima: [[Skill - remotion-to-hyperframes]]

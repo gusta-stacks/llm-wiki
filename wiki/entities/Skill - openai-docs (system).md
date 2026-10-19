@@ -33,3 +33,7 @@ Use for Codex models/pricing, scheduled tasks, skills, settings, setup, troubles
 
 ## Fontes
 - `~/.codex/skills/.system/openai-docs/` (espelho local: `raw/skills/.system/openai-docs/`)
+
+## Corrente
+- Anterior: [[Skill - music-to-video]]
+- Próxima: [[Skill - product-launch-video]]

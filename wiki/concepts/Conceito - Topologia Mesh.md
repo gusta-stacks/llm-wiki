@@ -34,3 +34,7 @@ Rede peer-to-peer onde agentes conversam entre si (`A ⟷ B ⟷ C ⟷ D`), busca
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Topologia Hierárquica]]
+- Próxima: [[Conceito - Topologia Sequencial]]

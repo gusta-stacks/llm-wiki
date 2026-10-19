@@ -34,3 +34,7 @@ Definição completa de um agente/persona especializado em **arquitetar times de
 
 ## Fontes
 - `raw/notes/agente-arquiteto-multi-agentes.md` (texto integral, imutável)
+
+## Corrente
+- Anterior: [[Conceito - Topologia Sequencial]]
+- Próxima: [[Entidade - 1248dsaijh219837]]

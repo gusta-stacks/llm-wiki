@@ -2,21 +2,50 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#multi-agente  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#topologia  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#prompt  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#moderation  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 5,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 0.62489756097561,
   "lineSizeMultiplier": 0.686087804878049,
   "collapse-forces": false,
-  "centerStrength": 0.350634146341463,
-  "repelStrength": 4.88975609756098,
-  "linkStrength": 1,
-  "linkDistance": 269,
-  "scale": 0.18462326225857947,
+  "centerStrength": 0.369365853658537,
+  "repelStrength": 10.9886746250383,
+  "linkStrength": 0.912585365853659,
+  "linkDistance": 390,
+  "scale": 0.06699744995282339,
   "close": false
 }

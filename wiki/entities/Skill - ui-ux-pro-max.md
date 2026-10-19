@@ -26,3 +26,7 @@ UI/UX design intelligence for web and mobile. Searchable local database with 84 
 
 ## Fontes
 - `~/.codex/skills/ui-ux-pro-max/` (espelho local: `raw/skills/ui-ux-pro-max/`)
+
+## Corrente
+- Anterior: [[Skill - talking-head-recut]]
+- Próxima: [[Skill - web-pentest]]

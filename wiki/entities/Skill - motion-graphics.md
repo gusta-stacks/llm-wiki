@@ -43,3 +43,7 @@ tags: ["skill", "codex"]
 
 ## Fontes
 - `~/.codex/skills/motion-graphics/` (espelho local: `raw/skills/motion-graphics/`)
+
+## Corrente
+- Anterior: [[Skill - mobile-touch]]
+- Próxima: [[Skill - music-to-video]]

@@ -25,3 +25,7 @@ Use when designing iOS/Android gestures, haptic feedback, touch interactions, or
 
 ## Fontes
 - `~/.codex/skills/mobile-touch/` (espelho local: `raw/skills/mobile-touch/`)
+
+## Corrente
+- Anterior: [[Skill - media-use]]
+- Próxima: [[Skill - motion-graphics]]

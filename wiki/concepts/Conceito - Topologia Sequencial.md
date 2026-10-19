@@ -33,3 +33,7 @@ Cadeia linear `Input → Agent A → Agent B → Agent C → Output`, onde cada 
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Topologia Mesh]]
+- Próxima: [[Fonte - Multi-Agent Systems Architect Agent]]

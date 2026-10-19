@@ -25,3 +25,7 @@ Create or update a Codex skill with appropriately scoped instructions and any ne
 
 ## Fontes
 - `~/.codex/skills/.system/skill-creator/` (espelho local: `raw/skills/.system/skill-creator/`)
+
+## Corrente
+- Anterior: [[Skill - review-agent (system)]]
+- Próxima: [[Skill - skill-installer (system)]]

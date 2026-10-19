@@ -25,3 +25,7 @@ Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub rep
 
 ## Fontes
 - `~/.codex/skills/.system/skill-installer/` (espelho local: `raw/skills/.system/skill-installer/`)
+
+## Corrente
+- Anterior: [[Skill - skill-creator (system)]]
+- Próxima: [[Skill - slideshow]]

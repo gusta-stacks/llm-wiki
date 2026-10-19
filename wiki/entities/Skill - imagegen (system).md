@@ -29,3 +29,7 @@ Generate or edit raster images when the task benefits from AI-created bitmap vis
 
 ## Fontes
 - `~/.codex/skills/.system/imagegen/` (espelho local: `raw/skills/.system/imagegen/`)
+
+## Corrente
+- Anterior: [[Skill - hyperframes-studio]]
+- Próxima: [[Skill - impeccable]]

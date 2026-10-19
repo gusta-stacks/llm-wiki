@@ -28,3 +28,7 @@ Projeto no GitHub (gusta-stacks/vbug). virus maker
 
 ## Fontes
 - `raw/github/vbug/`
+
+## Corrente
+- Anterior: [[Entidade - potential-invention]]
+- Próxima: [[Entidade - volleyspot]]

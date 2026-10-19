@@ -36,3 +36,7 @@ Regras: classificar o custo-alvo por tarefa antes de construir · teto rígido p
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Evals de Agentes e Pipelines]]
+- Próxima: [[Conceito - Human-in-the-Loop Gates]]

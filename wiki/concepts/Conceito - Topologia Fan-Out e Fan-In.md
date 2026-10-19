@@ -33,3 +33,7 @@ Um roteador dispara N agentes **independentes em paralelo** e um sintetizador ju
 
 ## Fontes
 - [[Fonte - Multi-Agent Systems Architect Agent]]
+
+## Corrente
+- Anterior: [[Conceito - Topologia Evaluator-Optimizer]]
+- Próxima: [[Conceito - Topologia Hierárquica]]

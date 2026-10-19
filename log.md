@@ -31,3 +31,10 @@ Registro cronológico **append-only**. Formato de entrada:
 - páginas: criadas 17 (1 fonte + 1 entidade hub [[Entidade - Multi-Agent Systems Architect]] + 15 conceitos em `wiki/concepts/`), atualizadas 2 (`index.md`, `log.md`)
 - notas: atomização em grafo — topologias (5), contexto, falhas/resiliência, segurança, HITL, especialização, observabilidade/RCA, evals, custo/latência
 - git: commit `ingest: prompt Multi-Agent Systems Architect em grafo`
+
+## [2026-10-19] schema | Corrente de navegação entre todas as notas
+
+- mudança: toda página de conteúdo passa a terminar com `## Corrente` (Anterior/Próxima), formando uma cadeia linear
+- ordem: hub `Entidade - Multi-Agent Systems Architect` → 15 conceitos → 1 fonte → 12 projetos → 37 skills (66 notas)
+- tooling: `tools/build-chain.ps1` reexecutado para regenerar a corrente (idempotente); documentado em `AGENTS.md` §6
+- efeito: graph do Obsidian passa a ter um único componente conectado (sem ilhas)

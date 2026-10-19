@@ -25,3 +25,7 @@ Perform a read-only, defect-first review of a specified code change and return e
 
 ## Fontes
 - `~/.codex/skills/.system/review-agent/` (espelho local: `raw/skills/.system/review-agent/`)
+
+## Corrente
+- Anterior: [[Skill - remotion-to-hyperframes]]
+- Próxima: [[Skill - skill-creator (system)]]
