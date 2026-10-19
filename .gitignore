@@ -9,6 +9,9 @@
 # Trash interno do Obsidian
 .trash/
 
+# Espelho de repositorios clonados (read-only, nao versionar no vault)
+raw/github/
+
 # Lixo de sistema/edição
 .DS_Store
 Thumbs.db
