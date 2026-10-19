@@ -1,0 +1,10 @@
+# .codex/config.toml — configuração de projeto para o OpenAI Codex.
+# O Codex descobre este arquivo + AGENTS.md na raiz do repo (projeto confiável).
+# Docs: https://developers.openai.com/codex/guides/agents-md
+#       https://developers.openai.com/codex/config-reference
+
+# Garante que o contrato AGENTS.md inteiro caiba no contexto (padrão ~32 KB).
+project_doc_max_bytes = 65536
+
+# Aceita CLAUDE.md como fonte de instruções alternativa (mesmo contrato).
+project_doc_fallback_filenames = ["CLAUDE.md", "TEAM_GUIDE.md"]

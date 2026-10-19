@@ -1,0 +1,17 @@
+# Obsidian workspace state
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Community plugins baixados (reinstalar via plugin browser; as configs ficam)
+.obsidian/plugins/
+
+# Trash interno do Obsidian
+.trash/
+
+# Lixo de sistema/edição
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
